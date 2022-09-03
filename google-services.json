@@ -1,0 +1,112 @@
+{
+  "project_info": {
+    "project_number": "453357145158",
+    "project_id": "padsshare-24bcf",
+    "storage_bucket": "padsshare-24bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453357145158:android:a78cc2083995079bf94e47",
+        "android_client_info": {
+          "package_name": "com.padshare.padshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453357145158-db4dp6k6fbajcuor3g007cnni3f3fajv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.padshare.padshare",
+            "certificate_hash": "4b772ea228edbaef3a25d6fd7ac10975d3972e8f"
+          }
+        },
+        {
+          "client_id": "453357145158-ud6h3o1okke0tjp7c1pe1iu6240vj95s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.padshare.padshare",
+            "certificate_hash": "dfb4d59972a6e83b88b65a9eb9f1305b86da1e12"
+          }
+        },
+        {
+          "client_id": "453357145158-uh4rr05576pd43udv49ks6flno8lp985.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEKBBllp6D2yh7P4PrTFkL08BixbTKeo"
+        },
+        {
+          "current_key": "AIzaSyDL7oC1Ma4kdxl5H7H3PQNuMQiD1yWIKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453357145158-uh4rr05576pd43udv49ks6flno8lp985.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453357145158-7ul21306vh177j8rh951uh5ak8r5onra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.padshare.padshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453357145158:android:5107272e00b056b1f94e47",
+        "android_client_info": {
+          "package_name": "com.padshare.padshare_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453357145158-lh75qug3gfm64pq0ada5pbem21af15tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.padshare.padshare_admin",
+            "certificate_hash": "dfb4d59972a6e83b88b65a9eb9f1305b86da1e12"
+          }
+        },
+        {
+          "client_id": "453357145158-uh4rr05576pd43udv49ks6flno8lp985.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEKBBllp6D2yh7P4PrTFkL08BixbTKeo"
+        },
+        {
+          "current_key": "AIzaSyDL7oC1Ma4kdxl5H7H3PQNuMQiD1yWIKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453357145158-uh4rr05576pd43udv49ks6flno8lp985.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453357145158-7ul21306vh177j8rh951uh5ak8r5onra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.padshare.padshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
